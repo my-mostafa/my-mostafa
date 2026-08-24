@@ -13,17 +13,12 @@ responsive and user-friendly web applications, primarily with **React** and Java
 - 🌱 Currently learning Next.js and modern Front-End development
 - 🧠 Academic background in Artificial Intelligence and Computer Vision
 
-## 🛠️ Languages & Technologies
-
-### Languages
+## 🛠️ Languages and Tools
 
 - **JavaScript**
 - **TypeScript**
 - **HTML5**
 - **CSS3**
-
-### Front-End
-
 - **React**
 - **Redux**
 - **React Router**
