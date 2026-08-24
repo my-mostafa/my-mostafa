@@ -3,7 +3,7 @@
 ### Front-End Developer | React Developer
 
 I'm a Front-End Developer focused on building modern,
-responsive and user-friendly web applications with React and JavaScript.
+responsive and user-friendly web applications, primarily with **React** and JavaScript.
 
 ## 👨‍💻 About Me
 
@@ -15,9 +15,20 @@ responsive and user-friendly web applications with React and JavaScript.
 
 ## 🛠️ Languages & Technologies
 
-JavaScript · TypeScript · HTML5 · CSS3
+### Languages
 
-React · Redux · React Router · Tailwind CSS · Bootstrap
+- **JavaScript**
+- **TypeScript**
+- **HTML5**
+- **CSS3**
+
+### Front-End
+
+- **React**
+- **Redux**
+- **React Router**
+- **Tailwind CSS**
+- **Bootstrap**
 
 <br>
 
@@ -29,13 +40,18 @@ React · Redux · React Router · Tailwind CSS · Bootstrap
 
 ## 🧰 Tools
 
-Axios · Vite · Git · GitHub · Firebase · Figma
+- **Axios**
+- **Vite**
+- **Git**
+- **GitHub**
+- **Firebase**
+- **Figma**
 
 <br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=axios,vite,git,github,firebase,figma" />
+<img src="https://skillicons.dev/icons?i=axios,vite,git,github,firebase" />
 
 </div>
 
