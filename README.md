@@ -15,29 +15,29 @@ responsive and user-friendly web applications, primarily with **React** and Java
 
 ## 🛠️ Languages and Tools
 
+- **React**
 - **JavaScript**
 - **TypeScript**
-- **HTML5**
-- **CSS3**
-- **React**
 - **Redux**
 - **React Router**
 - **Tailwind CSS**
 - **Bootstrap**
+- **HTML5**
+- **CSS3**
 
 <br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,redux" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,redux,reactrouter,tailwind,bootstrap,html,css" />
 
 </div>
 
 ## 🧰 Tools
 
-- **Vite**
 - **Git**
 - **GitHub**
+- **Vite**
 - **Firebase**
 - **Figma**
 
@@ -45,7 +45,7 @@ responsive and user-friendly web applications, primarily with **React** and Java
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vite,git,github,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vite,firebase,figma" />
 
 </div>
 
