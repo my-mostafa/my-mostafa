@@ -35,7 +35,6 @@ responsive and user-friendly web applications, primarily with **React** and Java
 
 ## 🧰 Tools
 
-- **Axios**
 - **Vite**
 - **Git**
 - **GitHub**
@@ -46,7 +45,7 @@ responsive and user-friendly web applications, primarily with **React** and Java
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=axios,vite,git,github,firebase" />
+<img src="https://skillicons.dev/icons?i=vite,git,github,firebase" />
 
 </div>
 
