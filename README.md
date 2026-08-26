@@ -7,11 +7,11 @@ responsive and user-friendly web applications, primarily with **React** and Java
 
 ## 👨‍💻 About Me
 
-- ⚛️ Focused on Front-End Development and React
-- 💻 Interested in building modern and responsive web applications
-- 🎨 Interested in clean UI and user experience
-- 🌱 Currently learning Next.js and modern Front-End development
-- 🧠 Academic background in Artificial Intelligence and Computer Vision
+- ⚛️ Front-End Developer focused on React and modern web development
+- 💻 Focused on building responsive and user-friendly web applications
+- 🎨 Interested in building clean and user-friendly interfaces
+- 🌱 Currently learning Next.js and expanding my Front-End development skills
+- 🧠 Master's degree in Artificial Intelligence and Robotics, with a specialization in Computer Vision
 
 ## 🛠️ Languages and Tools
 
